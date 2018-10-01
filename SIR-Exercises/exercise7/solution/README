@@ -1,0 +1,4 @@
+Invert obs_10d_75.per first. Once you get a good fit, use the resulting model atmosphere as initial model to invert obs_10d_71.per. 
+
+Here, penumbra71.mod is the same as penumbra_4.mod.
+
